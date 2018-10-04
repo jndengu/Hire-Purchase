@@ -12,3 +12,6 @@ The contracts formally terminates when the last payment is made.
 •	Period/how much every month
 •	What happens if a payment is missed
 •	What happens at the end of the contract
+Method of payment
+Cut off date for payment each month.
+
